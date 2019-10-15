@@ -1,0 +1,9 @@
+h1{
+  background: lightgray;
+}
+tr{
+  background: plums;
+}
+tr:hover{
+  text-decoration: underline;
+}
